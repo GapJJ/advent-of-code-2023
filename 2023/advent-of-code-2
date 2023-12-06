@@ -1,0 +1,8 @@
+const ballCounter() {
+
+ pv
+	fmt.Println(inputString[leftHead], leftHead, rightHead)
+	fmt.Println(inputString[leftHead], leftHead, rightHead)
+	mt.Println(inputString[leftHead], leftHead, rightHead)
+
+}
